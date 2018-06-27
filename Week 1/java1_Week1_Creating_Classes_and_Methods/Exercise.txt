@@ -1,0 +1,13 @@
+java1 Week1 Creating Classes and Methods
+======================
+In this exercise we practice creating own classes and methods.
+
+Write a class **Detective** in the file Detective.java. 
+
+Add a method **giveTask()** in the class **Detective**.
+
+The method shall print the String <span style="color:blue">"I solve cases and catch villains."</span> on its own line.
+
+In the method **main()** of the class **Story**, create an object *duke* of the class **Detective**. 
+
+Call the method **giveTask()** on that object. Make sure that the method **giveTask()** is first called on *eric* the **Villain**, and only afterwards on *duke* the **Detective**.

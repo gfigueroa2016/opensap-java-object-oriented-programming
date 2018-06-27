@@ -1,0 +1,9 @@
+java1 week2 Bonus4
+======================
+Duke got another clue as a digital message.
+However, it seems to have some "encryption", although it is very basic: all words were stored in reverse order.
+
+Duke knows that the text is in an array, so he only has to read out the words in reverse order and put a space between the words.
+Help Duke and print the message in one line on the screen.
+
+Note: You can also count backwards in loops. To print something without an implicit line break, use **System.out.print()**.

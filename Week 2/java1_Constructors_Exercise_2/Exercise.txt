@@ -1,0 +1,10 @@
+java1 Constructors Exercise 2
+======================
+The class **Task** represents a task, that Duke has to do. 
+
+With a constructor, Duke wants to save the description of the task as well as its importance.
+
+Implement a constructor for class **Task**, that takes a parameter of type String for the description, as well as a parameter of type int for the importance.
+The received values shall be saved in attributes with the same name.
+
+Hint: Use this.attributeName to access an attribute, if the same identifier is also used for parameters.

@@ -1,0 +1,9 @@
+java1 for-loops Exercise 1
+======================
+Duke wants to build a little gadget, that helps him with his time tracking.
+Therefore, the gadget needs to count.
+
+It shall count the hours of a day, so it shall count from 1 to 24 (inclusive) and print out these numbers, each in a separate line.
+Use a for-loop for that, and use the passed argument *number* within the for-loop.
+
+Note: If you want to, you can adjust the passed argument in the method call of *countTo* in **Story** from 24 to a number that suits you better for testing your program.

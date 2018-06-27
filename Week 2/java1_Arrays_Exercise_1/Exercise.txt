@@ -1,0 +1,9 @@
+java1 Arrays Exercise 1
+======================
+In this exercise, we save values in an array.
+All clues, that contain Duke's newest case, shall be saved centrally. 
+Therefore, they are saved within his office.
+
+Within the class **Office**, correctly declare the attribute *clues*. It shall be an array of Strings.
+
+Complete the method **saveClues()**, by assigning the Strings *clue1*, *clue2* and *clue3* into the array *clues*.

@@ -1,0 +1,18 @@
+java1 Week1 Classes, Methods and Attributes Combined: The Password
+======================
+In this exercise, we repeat the definition of classes and methods, the creation of attributes, and the invocation of methods.
+
+Detective Duke has forgotten his own computer password due to excitement about his new case.
+However, when cleaning up in the office, Duke has recovered his password generator, with which he once created the password. Maybe he still finds his old password in its memory?
+
+The **Password** class is encrypted and therefore not visible for humans.
+
+It is only known that the class **PasswordGenerator** has a method **getPassword()**, which returns a string.
+
+In class **Office**, create a string attribute *password* and a method **printPassword()**.
+
+In the method **printPassword()** call the method **getPassword()** on the object of type **PasswordGenerator** and save the result in the attribute *password*.
+
+*Hint:* Do not forget to create an actual instance of **PasswordGenerator** for that. In class office, only an attribute is declared.
+
+Finally, print the attribute *password* in a separate line.

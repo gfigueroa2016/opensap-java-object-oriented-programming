@@ -1,0 +1,7 @@
+java1 Week1 Return Values Exercise
+======================
+In this exercise, we practice writing methods with return values.
+
+In the class **Detective**, implement the method **getTask()**, with the return type String.
+
+The method returns the string with the identifier *task* and the value <span style = "color: blue"> "I solve cases and catch villains."</span>.

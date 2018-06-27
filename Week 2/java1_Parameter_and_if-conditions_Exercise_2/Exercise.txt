@@ -1,0 +1,12 @@
+java1 Parameter and if-conditions Exercise 2
+======================
+Duke wants to build a gadget, that checks whether  a given number is divisible by two (without a remainder), i.e. it can be divided by 2 without having a remainder.
+
+First, create the method **testNumber()**, that takes a parameter of type int.
+
+Then, add an if-condition to the method **testNumber()**, to check whether the passed parameter is divisible by 2 without a remainder.
+
+If this is the case, the method shall print the text <span style="color:blue">"The number is divisible by 2!"</span> on screen.
+Otherwise, the text <span style="color:blue">"The number is not divisible by 2!"</span> shall be printed out.
+
+Hint: Use the modulo operator, that was presented in week 1. Also, make sure that you are using the correct quotation marks to specify your Strings (copy&paste might lead to wrong ones).

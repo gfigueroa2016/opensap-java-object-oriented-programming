@@ -1,0 +1,11 @@
+java1 Parameters, Arrays and Loop Exercise
+======================
+In this exercise, we access data stored within an array.
+
+We need to be able to also retrieve the clues from the office again. 
+
+Add the method **retrieveClue()** to the class **Office**.
+The method shall receive a parameter of type int and return the respective element on that position out of the array.
+
+Additionally, add the method **printClues()**, that prints out all elements of the array *clues* consecutively.
+Use a for-loop, that uses the attribute  **.length** of array *clues*, and the method **retrieveClue()**.

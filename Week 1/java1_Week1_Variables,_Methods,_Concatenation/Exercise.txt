@@ -1,0 +1,13 @@
+java1 Week1 Variables, Methods, Concatenation
+======================
+In this exercise, we repeat the creation of variables and methods, as well as the concatenation of number-variables with Strings.
+
+Enhance the class Detective in the file Detective.java: 
+
+Implement the method **sayAge()** in the class Detective.  The method shall print: <span style="color:blue">"I am 42 years old."</span>
+
+The age of the detective shall be stored as an attribute in the class Detective with the identifier *age*. This attribute shall also be used to output the age afterwards.
+
+Initialize an object of class Detective with the identifier *duke* in the class Story in the method **main()**. 
+
+Lastly, call the method **sayAge()** on the object *duke* .

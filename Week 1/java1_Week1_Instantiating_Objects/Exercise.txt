@@ -1,0 +1,5 @@
+java1 Week1 Instantiating Objects
+======================
+In this exercise, we practice instantiating of objects.
+
+Create an object  of class **Detective** with the identifier *duke* in the class **Story** in the method **main()**.

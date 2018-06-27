@@ -1,0 +1,11 @@
+java1 nested-for-loops Excercise 1
+======================
+Here, we are exercising the usage of 2-dimensional arrays and nested loops.
+
+When Duke received the mail from curator Muson with the receipt, he had some problems accessing all the information. Only the content of the mail was visible, but all meta data was encrypted. The content just included a single line: "We hereby confirm your reservation." This was no help. Duke now needs to decrypt the meta data. He examines the information closer and finds out, that a two dimensional array is used.
+
+The class **Email** contains a 2-dimensional array *ipaddress*, that has a length of 3 in both dimensions (rows and columns).
+Create the method *identifyIP()* in the class **Backtracker**, that accesses the elements of *ipaddress*. One of these elements contains a complete IP-address.
+The other elements contain an "x". Print out all rows, to retrieve the correct IP-address.
+
+*Hint: To print out multiple values in one line, use the method System.out.print (instead of println). It does not add an automatic line break at the end.*

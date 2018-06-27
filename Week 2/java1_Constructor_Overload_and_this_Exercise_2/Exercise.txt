@@ -1,0 +1,8 @@
+java1 Constructor Overload and this Exercise 2
+======================
+In this exercise, we have another look onto the this keyword when using constructor overloading.
+
+When Duke accepts new cases, apart from his clues, he also saves additional information, such as the name of the villain, his hourly wage and the main location of the incident.
+
+Adjust the first constructor with only one parameter, so that it uses the constructor with more parameters.
+The initial values when calling the constructor with only one parameter are: name of the villain: "unknown", hourly wage: 32.5, main location of new incidents: "Potsdam".

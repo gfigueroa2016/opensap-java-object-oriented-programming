@@ -1,0 +1,9 @@
+java1 Boolean Logic Exercise 1
+======================
+Here, we exercise a single if-conditions.
+
+Eric the villian trains to circumvent alarm systems.
+
+For this, have a look at the method beep() of class **BurglarAlarm**. It shall return <span style="color:blue">true</span>, if the attribute *alarmLevel* is higher than 2. Otherwise, it shall  return <span style="color:blue">false</span>.
+
+Add the required return values in the if-condition.

@@ -1,0 +1,10 @@
+java1 Week1 Boolean Exercise1
+======================
+In this exercise, we practise the definition of booleans and boolean logic.<br>
+Define two variables: *first* and *second*. Both should be of data type boolean.<br>
+*first* should be **true**, *second* should be **false**.
+
+Then, define two more boolean variables: *third* and *fourth*.<br>
+Compute the result of: **first OR second**, then assign it to the variable *third*. <br>
+Further, compute the result of: **first AND second** and assign the result to the variable *fourth*. <br>
+Lastly, print out the variables third and fourth in separate lines.

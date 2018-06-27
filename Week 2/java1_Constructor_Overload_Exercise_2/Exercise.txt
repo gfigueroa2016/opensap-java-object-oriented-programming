@@ -1,0 +1,8 @@
+java1 Constructor Overload Exercise 2
+======================
+In this exercise, we have a closer look onto the this keyword when using constructor overloading.
+
+We already know that Duke has a constructor for his Cases that takes clues and saves them.
+However, this time we want to do it with this, for better maintainability.
+
+Complement the second constructor of class **Case**. Save both clues in the array and assign an initial value of <span style="color:blue">2</span> when the overloaded constructor with two parameters is called.

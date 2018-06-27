@@ -1,0 +1,8 @@
+java1 Constructor Overload Exercise 1
+======================
+In this exercise, we have a closer look onto constructor overloading.
+
+Duke has a constructor for his Cases, that takes a clue and saves it.
+Now, he noticed that he also opens up new cases, for which he already has two clues.
+
+Complement the second constructor of class **Case**. Save both clues in the array and assign an initial value of <span style="color:blue">2</span> when the overloaded constructor with two parameters is called.

@@ -1,0 +1,4 @@
+java1 Intro Test Exercise
+======================
+In this exercise, you can try out how to create an output and thus print text on the screen.
+Write a program, that prints out "Welcome to Java!" in a new line.

@@ -1,0 +1,21 @@
+java1 Week1 if-conditions Exercise 1
+======================
+In this exercise, we train using if-conditions and make decisions based on boolean expressions.
+
+A little robot shall help Duke by processing his clues. The robot shall have the following behavior:
+
+ - If Duke has ***a task*** for the robot (attribute *hasTask* is **true**), it shall process the task, if its *taskCounter* is smaller  than **3**. If the robot solved a task, *taskCounter* shall be increased by **1**. When accepting the task, the robot shall print <span style="color:blue">"I am pleased to do that for you."</span> on the screen.
+
+ - If the robot's *taskCounter* reaches **3**, it shall take a ***break***, instead of solving the task. On screen, <span style="color:blue">"Duke! I need a break... Please ask again later!"</span> shall be printed out. On the next call, the robot shall carry out tasks again (until *taskCounter* reaches 3 again, which will result in another break).
+
+ - If the robot has ***no task*** available (attribute *hasTask* is **false**) , it shall print out <span style="color:blue">"I have nothing to do."</span> .
+
+ - Additionally, the robot has to ***recharge his battery*** instead of solving a task, if the battery is empty (attribute *batteryEmpty* is **true**). On screen, the robot shall print <span style="color:blue">"I recharge my battery."</span>. Next turn, the robot shall then carry out tasks again.
+
+Complement the if-clauses in the method **helpDuke()** by suitable boolean expressions. Use the attributes *hasTask*, *batteryEmpty* and *taskCounter*. Additionally, add the required outputs, so that the respective messages are printed on the screen. Also, please do not forget to adjust the attributes in the code blocks after the if (e.g. incrementing values or resetting them).
+
+Hints: The order of the checks given here might not be the most suitable one. Decide for yourself, in which order you want to check the conditions.
+
+The exercise can be solved with or without combining multiple boolean expressions. Discuss in the forum, which options there are and which ones are suited for better or for worse.
+
+**Additional Remark:** In case you do not see the source code (seems to happen on Firefox), please just hide this exercise description by clicking on the title of the description. This should solve your issues.

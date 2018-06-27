@@ -1,0 +1,7 @@
+java1 Week1 Instantiating Objects and Calling Methods
+======================
+In this exercise, we practice instantiating of objects and calling methods.
+
+Create an object  of class **Detective** with the identifier *duke* in the class **Story** in the method **main()**. There already exists an object with the identifier "sherlock" in this method.
+
+Call the method **sayWelcome()** on the object *duke*.

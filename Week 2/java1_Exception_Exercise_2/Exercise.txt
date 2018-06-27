@@ -1,0 +1,6 @@
+java1 Exception Exercise 2
+======================
+Oops, some exception slipped into our code in this exercise.
+Make yourself familiar with the steps the program should execute, understand the program flow, and fix the error.
+
+Duke is very thankful for your help. ;-)

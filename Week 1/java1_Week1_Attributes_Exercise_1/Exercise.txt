@@ -1,0 +1,7 @@
+java1 Week1 Attributes Exercise 1
+======================
+Have a look at the class Detective.java. There is an attribute  *name*, which has a standard value set. Print out the value of the attribute in the **main()**-method by  accessing it from the object *duke*. 
+
+Then, assign the String value <span style="color:blue">"Duke"</span> to the attribute *name* and print the value of the attribute *name* out after the assignment.
+
+Hint: Both outputs shall be printed in a line on their own.

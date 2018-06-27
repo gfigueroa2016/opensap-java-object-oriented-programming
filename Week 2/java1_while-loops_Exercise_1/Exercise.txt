@@ -1,0 +1,7 @@
+java1 while-loops Exercise 1
+======================
+Now, let us exercise while-loops.
+
+In class RandomNumberGreaterTen, write a method **greaterTen()**, that creates random numbers of type int, until the created number is **greater than 10** (make sure it is greater!). This number shall then be returned by that method.
+
+Hint: Random numbers can be retrieved by calling the method **giveNumber()** of class *RandomNumber* on the instantiated object *rand*.

@@ -1,0 +1,9 @@
+java1 Constructors Exercise 1
+======================
+Here, we have a shot at writing constructors.
+
+To simplify the creation of new cases, Duke wants to pre-set some of their initial values.
+One of these values is the number of clues. Duke only opens a case, if he has at least one clue for it.
+We want to set this within the constructor.
+
+Complement the constructor of class **Case**, to define the attribute *clues* with an initial value of <span style="color:blue">1</span> when the constructor is called.

@@ -1,0 +1,11 @@
+java1 nested-for-loops Excercise 2
+======================
+The IP address Duke previously found in the mail wasn't of much use. He wants to analyze the email somewhat further, to potentially uncover more clues. The mail header information is still encrypted, but Duke already knows how to build another gadget to solve this problem.
+
+The hidden class **EncryptedEmail** has a method **decryptChar(x, y)**, that returns the decrypted character on position *(x, y)* of the encrypted email.
+
+Decrypt the complete sender information of the mail *encryptedEmail* inside the class **Gadget**  and print all characters to the screen. For this, write a method **decryptSender()**, which uses a nested for loop to access all decrypted characters.
+
+The header contains several lines with a constant amount of characters each (some characters are whitespaces). <br>
+You can retrieve the respective numbers via the methods *getNumberOfLines()* and *getNumberOfCharactersPerLine()* of the class **EncryptedEmail**.
+For printing out the characters to the screen, use the method **System.out.print()**.  Add a line break after each decrypted line.

@@ -1,0 +1,7 @@
+java1 Week1 Variables Exercise2
+======================
+In this exercise, some variables are used, however their correct data type is still missing.
+
+Add the best suited data types for the variables *name*, *age* and *height*.
+
+The data types to be used have been introduced in the course videos.

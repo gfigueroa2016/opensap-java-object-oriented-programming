@@ -1,0 +1,9 @@
+java1 Parameters and for-loops Exercise 2
+======================
+Within this exercise, we train to deal with loops and parameters.
+
+Implement the following methods:
+
+**speakSeveralTimes()**: This method receives an int parameter and prints out the String saved in *sentence* as often as the parameter states.
+
+**speak()**: Calls the method **speakSeveralTimes()** and passes a random number to it. You get a random number by calling the method **giveNumber()** on the already instantiated object (*rand*) of class **RandomNumber**.

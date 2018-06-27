@@ -1,0 +1,9 @@
+java1 Week1 Object Instantiation and Attributes
+======================
+In this exercise, we practice instantiating of objects and the creation of attributes.
+
+In the class **Detective**, add an attribute with the identifier *task* of data type String.
+
+In the class **Story**, instantiate an object **Detective** with the identifier *duke*  in the method **main()** .
+
+Assign the String <span style="color:blue">"Solve cases."</span> to the attribute *task* of *duke* and print out the value of the attribute.

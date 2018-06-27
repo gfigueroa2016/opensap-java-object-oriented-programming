@@ -1,0 +1,9 @@
+java1 Intro Comments and Output
+======================
+Comments are very helpful to understand and document source code.
+Change the single line comments in lines 3-5 to a multiline comment.
+
+Afterwards, create a two-line output.
+Write a program, that prints out <span style="color:blue">"Hello, I am Duke."</span> in the first line and <span style="color:blue">"What's your name?"</span> in the second line.
+
+*Hint: Attention, there might be some issues with different apostrophes in different languages. You might also stumble upon these problems when copying the quotation marks ("..."); Please use the one that is used in the code comment (copy & paste). The one in this text ( ’ ) might not work, as your browser likely shows different ones within these description texts. The reason for that nasty hurdle is that we want to stress out that programming depends on every character. But in case all that does not work, just write "What is your name?". The test will also accept that. ;-)*

@@ -1,0 +1,11 @@
+java1 Week1 Defining and Calling Methods
+======================
+In this exercise, we practice defining and calling methods.
+
+Define a the method **sayYourProfession()** that shall print out the String "Detective" in the class Detective.
+
+Then, create an object  of class **Detective** with the identifier *duke* in the class **Story**.
+
+Call your defined method **sayYourProfession()** on the object *duke*.
+
+

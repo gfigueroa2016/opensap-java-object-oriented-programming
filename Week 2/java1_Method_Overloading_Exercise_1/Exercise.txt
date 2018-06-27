@@ -1,0 +1,8 @@
+java1 Method Overloading Exercise 1
+======================
+In this exercise, we implement some method overloading.
+
+Write methods for the MathMachine. Each MathMachine has an integer base number, that is set in the constructor.
+It further offers an add method, that returns the sum of the base number and the passed int parameter. It also includes a method that allows to add two integer numbers to the base number upon returning the result.
+
+Create two additional methods. The first method should multiply the base number with one passed int value (and return the result). The second one should multiply the base number with  two passed ints before returning the result.

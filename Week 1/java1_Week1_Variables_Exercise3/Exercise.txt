@@ -1,0 +1,9 @@
+java1 Week1 Variables Exercise3
+======================
+In this exercise, we calculate with variables of data type int.
+
+First, initialize two int variables. One shall have the identifier *a* and contain the value  <span style="color:blue">4</span>, the other one shall be called *b* and have the value <span style="color:blue">7</span>.
+
+Afterwards, calculate the result of (a+b)² and save it in the variable *c* of data type int. Lastly, print out the value of *c*.
+
+Hint: (a+b)²  is the same as (a+b) times (a+b), which is the same as (a² + 2ab + b²).

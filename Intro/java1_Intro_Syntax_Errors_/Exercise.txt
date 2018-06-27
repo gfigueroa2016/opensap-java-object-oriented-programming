@@ -1,0 +1,3 @@
+java1 Intro Syntax Errors 
+======================
+Two syntax errors are hidden in this program. Find and fix the errors. Afterwards, the program should print <span style="color:blue">"Hello World."</span>.

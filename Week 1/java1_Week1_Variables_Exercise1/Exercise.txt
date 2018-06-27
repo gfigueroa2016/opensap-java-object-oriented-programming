@@ -1,0 +1,5 @@
+java1 Week1 Variables Exercise1
+======================
+In this exercise, we learn how to create and use variables.
+Create a variable of the data type String, with the identifier *greeting* and the value <span style="color:blue">"Welcome Duke."</span>. <br>
+Afterwards, print the value of the variable *greeting* on the screen.

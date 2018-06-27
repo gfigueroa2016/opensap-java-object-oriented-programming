@@ -1,0 +1,3 @@
+java1 Week1 Return Values Exercise 2
+======================
+Add the method **getAge()** to the class **Detective**. The method shall return the integer value <span style="color:blue"> 42 </span> (type int). Create an attribute of type int inside the class Detective which holds the corresponding value and has the identifier *age*.
