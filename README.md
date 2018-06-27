@@ -45,10 +45,17 @@ Version Control
 ## Course Content
 
 Intro: Programming Basics
+
 Week 1: Java Classes and Objects
+
 Week 2: Further Programming Concepts
+
 Week 3: Object-Oriented Programming
+
 Week 4: Modeling
+
 Week 5: Advanced Programming Concepts
+
 Week 6: Final Exam
+
 *Outro: Introduction to a Java IDE and Outlook
