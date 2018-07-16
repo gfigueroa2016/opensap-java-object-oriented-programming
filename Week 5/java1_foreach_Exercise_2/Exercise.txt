@@ -1,0 +1,9 @@
+java1 foreach Exercise 2
+======================
+In this exercise we use the foreach loop to calculate an arithmetic mean (average). There are two methods in class **Calculator**, that take an array of numbers as parameter:
+
+1. **calculateSum()**: Should return the sum of all elements in the array
+2. **calculateMean()**: Should  return the arithmetic mean (sum of all elements divided by the number of elements).
+
+Implement the two unfinished methods.  
+Use a foreach loop when implementing **calculateSum()**.

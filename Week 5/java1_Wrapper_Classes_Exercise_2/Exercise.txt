@@ -1,0 +1,11 @@
+java1 Wrapper Classes Exercise 2
+======================
+Oh no, some errors and bugs have slipped into this code.
+
+Remove all present errors in the method **div()**.
+
+The method **div()** should divide the number *a*, provided as a **String**, by the number *b*, which is also provided as a **String**.
+
+Afterwards, the result should be further divided by 2. Then, this final result should be finally returned.
+
+*Hint: Make sure that floating-point numbers are supported as arguments.*

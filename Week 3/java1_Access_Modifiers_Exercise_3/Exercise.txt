@@ -1,0 +1,13 @@
+java1 Access Modifiers Exercise 3
+======================
+Duke wants to keep his messages super safe. If his messages are stolen, they have to be protected against unauthorized access. Only persons with the correct password should be able to access them. If the password is correct, the message is printed out, before it deletes itself.
+
+The class **SecretMessenger** contains an attribute *message* of type String. 
+Implement the method **deleteMessage()**. It shall only be accessible from within the class **SecretMessenger**. If called, it assigns an empty String  <span style="color:blue">""</span> to *message*. 
+
+Furthermore implement the method **retrieveMessage()**, that takes a parameter of type String.
+
+Write the method in a way, that you can access it from **Story**. The method **retrieveMessage()** should print the message and call  **deleteMessage()** afterwards, but only if the String passed as an argument is identical to <span style="color:blue">"taradiddle"</span>. Otherwise, it should do nothing.
+
+Hint: To compare String, use the method **.equals()**.
+Example: string1.equals(string2);

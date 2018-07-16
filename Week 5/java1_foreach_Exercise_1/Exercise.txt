@@ -1,0 +1,5 @@
+java1 foreach Exercise 1
+======================
+In this exercise, we use a foreach loop to iterate over an ArrayList.
+
+In the class **Office**, implement a method **retrieveClues()**, that accepts one argument of type **ArrayList<&#x200b;String>** as a parameter and prints out all elements of the passed list in single lines.

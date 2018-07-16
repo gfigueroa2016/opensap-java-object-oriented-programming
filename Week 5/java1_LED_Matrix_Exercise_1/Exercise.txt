@@ -1,0 +1,15 @@
+java1 LED Matrix Exercise 1
+======================
+**Remark**: This is an experimental exercise. We can't guarantee that the system is always available to run the exercise. However, the possibility to score and assess the exercise is always possible.  
+**Hint**: If the code editor appears to small, or this description is in your way, just click on the title of this exercise to hide it.
+
+###Tasks
+
+1.	Initialize the array „ledMatrix“ as a two dimensional array, so that it may contain a 16x16 matrix of Integer values.
+2.	Fill values into the array, so that it results in a red line from the top left corner to the bottom right corner, as shown in the picture below.
+
+The are coded as follows: 1 - green, 2 - red, 3 - orange.
+<p>
+<center><img style="width: 20%; height: 20%" src='https://open.sap.com/files/72e48cb2-d88b-4f17-85f3-a8fa0f03490d'></center>
+
+

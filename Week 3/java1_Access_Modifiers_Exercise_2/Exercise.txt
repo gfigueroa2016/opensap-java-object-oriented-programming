@@ -1,0 +1,9 @@
+java1 Access Modifiers Exercise 2
+======================
+Eric wants to steal a car... you never know when you need to make a fast getaway. 
+Therefore, he tests what information he can get out of the car, before taking action.
+He connects his terminal to the car he wants to test, and checks what information is available.
+
+The class **TestCar** has 4 attributes that are restricted by different access modifiers.
+
+Implement a public method **hackCar()** in the class **Terminal**. It should take a **TestCar** as a parameter and print all attributes of class **TestCar**, which you can access from within the class **Terminal**.

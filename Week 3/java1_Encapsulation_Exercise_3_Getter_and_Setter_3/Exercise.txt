@@ -1,0 +1,9 @@
+java1 Encapsulation Exercise 3 Getter and Setter 3
+======================
+Duke wants to introduce further security measures. It is your turn to decide, what is helpful and reasonable.
+
+For this, have a closer look onto the classes **Story** and **Car**.
+
+The class **Car** has some methods and attribute already defined, however they all currently lack access modifiers.
+
+Limit access to methods and attributes in so far, as that only the calls that are currently issued from class **Story** are supported.

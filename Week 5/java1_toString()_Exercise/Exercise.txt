@@ -1,0 +1,7 @@
+java1 toString() Exercise
+======================
+In this exercise, we will override the **toString()** method of our class **Car**.
+
+Override the method **toString()** of class **Car**. It should return a String, that contains the three attributes *brand*, *licensePlate* and *age* (in this order), separated by the underscore character "_".
+
+Example: "FantasyBrand_PHP-600_10"

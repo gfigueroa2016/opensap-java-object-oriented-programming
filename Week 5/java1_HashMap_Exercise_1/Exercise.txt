@@ -1,0 +1,27 @@
+java1 HashMap Exercise 1
+======================
+Duke still recalls one of his old cases: he once found valuable information in the memory of electronic doors when sneaking into his nemesis' headquarter.
+The doors were operated with access codes. These codes were usable only a certain number of times.
+The same now applies for the deposit boxes in the bank in Hong Kong - which explains why Eric could open the box so easily!
+
+Access codes for the doors are represented by objects of class **AccessCode**.
+
+In the class **Door**, create a **HashMap** with the identifier *doorCodes*. It should save objects of type **AccessCode** as values, and the keys for these objects should be **String**&#x200b;s.
+
+Afterwards, implement the method **addDoorKey()** in class **Door**. It should accept a **String** and an object of type **AccessCode**, and store the passed key (String) and value (AccessCode) arguments in the HashMap *doorCodes*.
+
+Lastly, add a method **useCode()** to the class **Door** which accepts a **String** as parameter. The method should first check, whether the given key (passed as a String argument) exists in the *doorCodes* HashMap. If it does, 
+
+ - the method should look up the respective **AccessCode** that might belong to the passed (key-)String. 
+ - The attribute *numberOfTimesUsed* of the  **AccessCode** object should be increased by **1** then. 
+ - If *numberOfTimesUsed* is greater than 2 afterwards, the attribute *valid* has to be set to false and the method should print out <span style="color:blue">"AccessCode no longer valid"</span>. 
+ - If *numberOfTimesUsed* is not greater than 2, the method should print out <span style="color:blue">"AccessCode valid"</span>.
+
+If the given key does not exists in the *doorCodes* HashMap, the method should print out <span style="color:blue">"AccessCode invalid"</span>.
+
+*Hint 1: **AccessCode** offers some getters and setters. Have a look at this class to use them correctly.*  
+*Hint 2: You can find the [JavaDocs for HashMap here][1] to look up how the HashMap works in detail. Search for put(), containsKey() and get().*  
+*Hint 3: If you need more space for the editor textfield, remember that you can simply click on the title of this exercise description to hide this text.*
+
+
+  [1]: https://docs.oracle.com/javase/10/docs/api/java/util/HashMap.html

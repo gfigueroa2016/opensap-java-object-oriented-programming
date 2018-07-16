@@ -1,0 +1,7 @@
+java1 ArrayList Exercise 1
+======================
+Duke collected some more clues for his case. He wants to keep them in a special folder (realized as an ArrayList) of his bookshelf.
+
+Create a new attribute of type **ArrayList** in the class **Bookshelf**. It should contain elements of type **Clue** and have the identifier *clues*.
+
+The constructors of class **Bookshelf** creates 3 objects of class **Clue**. Complement the Constructor, so that the created objects are saved in the attribute *clues* that you created beforehand. 

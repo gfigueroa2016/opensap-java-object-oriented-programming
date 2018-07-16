@@ -1,0 +1,16 @@
+java1 Overload 1
+======================
+This exercise is about overloading methods.
+Eric needs a new calculator. A special one: *The E.Vil.Culator*
+
+So, in class **EVilCulator** you need to implement 4 versions of the method **addition()**.
+
+1. the first method takes 2 arguments of data type int. The method returns a value of data type int.
+
+2. the second method takes 3 arguments of data type int. It also returns a value of data type int.
+
+3. the third method takes 2 arguments of data type double. The method returns a value of data type double. 
+
+4. the fourth method takes 3 arguments of data type double. The method returns a value of data type double. 
+
+All methods sum up the values of the passed in arguments and return the result. But as it is the **EVilCulator**  they also add a service fee of **twenty** on each calculation ( and simply add it to the result).

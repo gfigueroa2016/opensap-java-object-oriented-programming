@@ -1,0 +1,18 @@
+java1 Interfaces Exercise 1
+======================
+In this exercise, we implement the example shown in the video.
+In order to keep the number of classes low, we will implement a further simplified version.
+
+Given are the three classes **Plane**, **Drone** and **Raven**.
+
+Implement the Interface **Flyable**. It has to contain the abstract method *fly()*.
+
+**Plane**, **Drone** and **Raven** should implement the interface **Flyable**.
+
+The method *fly()* of class **Plane** should print out <span style="color:blue">"Wrrooom!" </span>.
+
+The method *fly()* of class **Drone** should print out <span style="color:blue">"Beep beep!" </span>.
+
+The method *fly()* of class **Raven** should print out <span style="color:blue">"Flap flap" </span>.
+
+Please make the method *fly()* public.

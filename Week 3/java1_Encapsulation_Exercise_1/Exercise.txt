@@ -1,0 +1,8 @@
+java1 Encapsulation Exercise 1
+======================
+In this exercise, the class **Car** is given. It contains the attribute *remainingFuel*.
+The attribute is encapsulated via getters and setters. However, it would be good to check, whether the values passed to the setter are reasonable.
+
+Before setting the remainingFuel, it should be checked whether the passed value is in the possible range of values.
+
+To check this, implement a private method **notNegative()** in class **Car**, that is called from within the method **setRemainingFuel()**. It should check whether the passed argument is a positive number or zero.

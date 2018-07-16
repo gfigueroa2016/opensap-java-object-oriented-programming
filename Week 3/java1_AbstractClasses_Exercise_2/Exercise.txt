@@ -1,0 +1,10 @@
+java1 AbstractClasses Exercise 2
+======================
+Duke wants to have more fun with locks.
+
+The classes **Lock1** and **Lock2** inherit from the abstract class **AbstractLock**. 
+Complete the class **AbstractLock**, so that it contains all attributes and methods, that are used within **Lock1** or **Lock2**. 
+
+For this, closely examine the attributes and method signatures of **Lock1** and **Lock2**.
+
+Hint: This exercise does not have a class with a main file. In order to verify your solution, please click Score.

@@ -1,0 +1,13 @@
+java1 Override Exercise 1
+======================
+Eric wants to build a new water plane based on his old water plane.
+You can find the code for his old water plane in the class  **OldWaterPlane**. 
+
+The class **WaterPlane** should inherit from the class **OldWaterPlane**. 
+Of course, his new water plane should be more fancy, therefore he wants to override all methods of **OldWaterPlane**.
+
+The class **OldWaterPlane**  has 2 methods, **splashdown()** and **getFlightDetails()**. Eric wants to override both methods in the class **WaterPlane**:
+
+**splashdown()** should print the text <span style="color:blue">"Landed even more safely!"</span> in the screen.
+
+**getFlightDetails()** should return the value  of the attribute *currentAltitude*.

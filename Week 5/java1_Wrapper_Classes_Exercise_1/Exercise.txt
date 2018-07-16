@@ -1,0 +1,8 @@
+java1 Wrapper Classes Exercise 1
+======================
+In this exercise, we will write another method to calculate the result of a division.
+
+This time, the **public** method **div()** accepts two **String** numbers. The calculated result should be as correct and precise as possible - so our division result is of type **double**.
+The result should be calculated as *a* divided by *b*.
+
+*Remark: We already made sure that only valid number Strings are passed to the div method. You do not need to check that.*

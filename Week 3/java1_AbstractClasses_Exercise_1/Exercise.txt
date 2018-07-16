@@ -1,0 +1,5 @@
+java1 AbstractClasses Exercise 1
+======================
+The abstract class **SecurityDevice** contains an abstract method **open()**.
+
+This method should be overriden in the class **CombinationLock**. The method **open()** of **CombinationLock** should return true, if the passed argument equals the integer number (int) 1337. Otherwise, the method should return false.

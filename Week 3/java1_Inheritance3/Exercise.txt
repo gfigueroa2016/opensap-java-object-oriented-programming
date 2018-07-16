@@ -1,0 +1,12 @@
+java1 Inheritance3
+======================
+Next, Duke wants to get a hybrid car with a spare battery  for enhanced reach.
+
+Define the attribute *spareBatteryReach* of type *int* in class **HybridCar** with an initial value of <span style="color:blue">200</span>.
+
+Then, add a method  **giveTotalBatteryReach()**  to the class **HybridCar**.
+
+It shall call the method **getReach()** of the superclass **Car** to get the base reach of the car and store it in a local variable. 
+Add the the additional reach provided by the additional battery (*spareBatteryReach*) and return the total value.
+
+Hint: Although we taught you attributes are usually private, please do not declare *spareBatteryReach* as private this time.

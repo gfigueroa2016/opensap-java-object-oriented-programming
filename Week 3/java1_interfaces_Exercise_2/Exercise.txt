@@ -1,0 +1,9 @@
+java1 interfaces Exercise 2
+======================
+Next, we want to simulate the hot pursuit.
+
+In the class **HotPursuit**, you already find an array  with the name *chasers*. It can contain objects that implement the interface **Flyable**.
+
+In class **Story** add the 3 objects *odin*, *drone* and *plane* to the array *chasers* of the object *hotPursuit*.
+
+Lastly, implement the method **chase()** in the class **HotPursuit**, that calls the **fly()** method on all objects contained in **chasers**.

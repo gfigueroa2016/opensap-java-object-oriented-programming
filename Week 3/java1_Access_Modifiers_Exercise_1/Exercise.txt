@@ -1,0 +1,17 @@
+java1 Access Modifiers Exercise 1
+======================
+In this exercise we set access modifiers, which also restrict the visibility of attributes.
+
+The class **Car** contains 4 attributes, that have to be completed with the required access modifiers:
+
+ - *doorUnlockCode* should be accessible only within this class
+
+ - *hasAirCondition*  should be accessible within this class and all its subclasses
+
+ - *brand* should be visible in the package
+
+ - *licensePlate* should be accessible everywhere 
+
+Hint: You can try what happens if you access an attribute that is not visible for other classes from within the main method. We encourage you to try out accessing all attributes  in the main method after you solved the exercise, to experience yourself how they are working.
+
+Hint2: If you run the exercise, it will throw an Exception. Do not worry: this is intended, as we try to access attributes that are not accessible for us.

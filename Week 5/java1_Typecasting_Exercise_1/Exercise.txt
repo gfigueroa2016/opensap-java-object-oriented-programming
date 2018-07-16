@@ -1,0 +1,6 @@
+java1 Typecasting Exercise 1
+======================
+In this exercise, we divide integer numbers and want to receive a floating-point number as a result. The result should be as correct and precise as possible - so our result is of type **double**.
+
+Implement a public method **div()** in **Calculator**, which returns the correct floating-point result of the division of the passed two **int** arguments.
+The result should be calculated as *a* divided by *b*.

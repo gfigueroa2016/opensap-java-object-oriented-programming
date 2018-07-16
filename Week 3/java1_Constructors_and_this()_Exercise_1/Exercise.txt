@@ -1,0 +1,5 @@
+java1 Constructors and this() Exercise 1
+======================
+In this exercise, we will call constructors from within the same class with **this()**.
+
+Add another constructor to the class **Car**. It shall not accept additional parameters. It just calls the constructor that is already present with the String argument <span style="color:blue">"red"</span>.

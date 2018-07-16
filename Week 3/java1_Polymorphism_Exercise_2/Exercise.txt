@@ -1,0 +1,8 @@
+java1 Polymorphism Exercise 2
+======================
+In this exercise, we are going to use polymorphism to pass objects of different classes as arguments to a method.
+The objects belong to subclasses of a shared superclass.
+
+Class **Story** initializes two objects: one of type **Car**, the other one of type **Truck**. Both classes inherit from the superclass **Vehicle**.
+
+In the class **GasStation**, implement a method **refuelVehicle()**, that might be called with an object of type **Car** as well as with an object of type **Truck** as an argument. In the method **refuelVehicle()**, the attribute *remainingFuel* of the passed argument should be increased by <span style="color:blue">7</span>.

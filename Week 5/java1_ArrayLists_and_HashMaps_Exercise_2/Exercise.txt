@@ -1,0 +1,17 @@
+java1 ArrayLists and HashMaps Exercise 2
+======================
+To clean up his bookshelf, Duke wants to separate all clues he already used from the clues he did not use yet.
+
+In the  class **Bookshelf**, create two ArrayLists, *usedClues* and *unusedClues* that may contain objects of type **Clue**.
+
+Add a method **saveClues()** to the class **Bookshelf** afterwards. It should accept an **ArrayList** of **Clue**&#x200b;s as parameter.
+The method should iterate over all elements of the passed ArrayList and store the elements accordingly.
+If the attribute *used* of a **Clue** element is set to <span style="color:blue">true</span>, it should be saved in the list *usedClues* , otherwise it should be assigned to the list *unusedClues*. 
+
+Lastly, add another attribute to the class **Bookshelf**: a HashMap with the identifier *clueHashMap*. Stored under the key <span style="color:blue">"used"</span>, this HashMap should contain the ArrayList *usedClues*. Under the key <span style="color:blue">"unused"</span>, store the ArrayList *unusedClues*. This assignment should be done in the already existing method *buildHashMap()*.
+
+*Hint: The number of elements of an ArrayList can be retrieved with the method **size()**. Use the Java Docs for [ArrayLists][1] and [HashMaps][2] in case you need to learn more about needed methods.*
+
+
+  [1]: https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
+  [2]: https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html

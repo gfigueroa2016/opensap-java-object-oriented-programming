@@ -1,0 +1,12 @@
+java1 Polymorphism Exercise 1
+======================
+This exercise is going to demonstrate the concept of polymorphism.
+
+In the class Story, we are initializing an array *vehicles*. Afterwards, we put an object of type **Car** and an object of type **Plane** into the array.
+Both objects inherit from the superclass **Vehicle**, therefore they can be inserted into the array.
+
+Add a method **printMovementDescription** in the class **Vehicle**.
+
+Implement the method **printMovementDescription** in class Car, so that it prints out <span style="color:blue">"I drive on roads"</span>.
+
+Implement the method **printMovementDescription** in class Plane, so that it prints out <span style="color:blue">"I fly in the sky"</span>.

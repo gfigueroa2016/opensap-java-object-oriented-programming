@@ -1,0 +1,4 @@
+java1 playground collections
+======================
+We have started a very easy and not yet complete implementation of a Stack and a Queue here.
+Have a look at the code and play around with it. If you have already advanced knowledge, you can try to modify the collections, so that they accept elements of an arbitrary type.  Have a further look at <a href="https://docs.oracle.com/javase/tutorial/java/generics/index.html" target="_blank">Java Generics</a> for that. Another interesting topic related to collections are <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html">Iterators</a>, with which you might want to play around.

@@ -1,0 +1,8 @@
+java1 Inheritance2
+======================
+Duke wants to customize his car.
+
+
+Adjust the class **Car**, so that it inherits from **Automobile**. 
+
+In the constructor of **Car** assign the String value <span style="color:blue">"blue"</span> to the attribute *color* of the superclass. Also assign the value <span style="color:blue">true</span> to the attribute *hasTurboMode*.

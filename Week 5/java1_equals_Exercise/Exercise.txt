@@ -1,0 +1,6 @@
+java1 equals Exercise
+======================
+In this exercise, we compare two car objects with each other.
+
+Write a method **equals()** in class **Car**. The method should return **true**, if the cars to compare are equal in all their attributes.
+If the cars differ in at least one attribute, it shall return **false**.

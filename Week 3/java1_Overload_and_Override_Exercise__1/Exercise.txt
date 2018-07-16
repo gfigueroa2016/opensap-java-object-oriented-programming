@@ -1,0 +1,9 @@
+java1 Overload and Override Exercise  1
+======================
+In this exercise, we will have a look at the differences between overriding a method and overloading a method. 
+
+We will have a look at the class **Car**, which inherits from the superclass **Automobile**. 
+
+In class **Car**, override the method *drive*, which is inherited from class **Automobile**. The method should print out <span style="color:blue">"I am doing a road trip"</span>.
+
+Overload the method **makeNoise** of class **Car**. It should take a parameter of type String. This String should then be printed on the screen.

@@ -1,0 +1,9 @@
+java1 Inheritance1
+======================
+Examine the classes **Vehicle**, **Automobile** and **Car** and implement a suitable inheritance hierarchy. 
+
+Hint: The expected inheritance hierarchy resembles the intuitive structure that humans are likely to build out of the given concepts.
+You do not have to change the classes further than just adding the inheritance-dependencies to solve this exercise.
+
+You can try which object delivers which output and which attributes and methods can be called from which places.  
+For this, re-introduce the comments and adjust the code in the main-method as you like.

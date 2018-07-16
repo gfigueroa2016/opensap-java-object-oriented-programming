@@ -1,0 +1,5 @@
+java1 Constructors and super() Exercise
+======================
+In this exercise, we will call the constructor of a superclass with **super()**. 
+
+Complement the constructor of class **Car**. It should call the constructor of the superclass **Automobile** with an int argument of <span style="color:blue">5</span>.

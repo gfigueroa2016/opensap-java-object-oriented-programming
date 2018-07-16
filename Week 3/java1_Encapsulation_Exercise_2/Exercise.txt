@@ -1,0 +1,11 @@
+java1 Encapsulation Exercise 2
+======================
+To enhance the safety of his car, Duke wants to encapsulate its attributes with getters and setters.
+
+In order to help him, implement the following methods in the class **Car**:
+
+**setEngineRunning()** should take an argument of type boolean and assign it to the attribute *isEngineRunning*.
+
+**isEngineRunning()** should return the value of the attribute *isEngineRunning*.
+
+Hint: The method **printStatus()** must not be changed.
