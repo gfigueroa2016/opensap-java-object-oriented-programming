@@ -1,0 +1,5 @@
+java1 week3 Bonus2
+======================
+When implementing getters and setters for this program of a little robot helping us with housework, we unfortunately made some small mistakes.  
+Please help us fixing the errors in the visibility modifiers.  
+Thanks a lot. :-)

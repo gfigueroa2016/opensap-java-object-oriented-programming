@@ -1,0 +1,5 @@
+java1 IDE Exercise
+======================
+Eric escaped with the help of Duke and "borrowed" an old ship to sail into the Carribean. Being the nice guy he is, he used an old morse machine to send Duke a message. However, he seemed to have tasted quite some rum barrels on the ship... When pressing the telegraph key, some symbols were sent much too often.
+
+So its your task to help Duke to decypher Eric's morse message and print it on the screen.

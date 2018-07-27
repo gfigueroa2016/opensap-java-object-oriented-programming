@@ -1,0 +1,27 @@
+java1 music bonus 1a
+======================
+Duke wants to build a music device, although his taste of music would be regarded as highly... questionable.
+
+Write a program that counts up with a for loop from 1 to 50 (including 50).
+
+  - In case the number is divisible by both 3 and 7, <span style = "color: blue"> ding-dong </span> should be output in a separate line on the screen. <br>
+  - If the respective number is only divisible by 3, <span style = "color: blue"> ding </span> should be output.<br>
+  - If the respective number is only divisible by 7, <span style = "color: blue"> dong </span> should be output.<br>
+  - In all other cases, output <span style = "color: blue"> ping </span>. <br>
+
+Note: Checking the divisibility of a number can be done with the modulo operator.
+
+The first 10 lines should look like this: <br>
+ping <br>
+ping <br>
+ding <br>
+ping <br>
+ping <br>
+ding <br>
+dong <br>
+ping <br>
+ding <br>
+ping <br>
+
+Line 21 looks should like this: <br>
+ding-dong
